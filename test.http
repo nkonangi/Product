@@ -1,16 +1,16 @@
-GET https://uwdy3hxjl1.execute-api.us-east-1.amazonaws.com/product
+    GET https://uwdy3hxjl1.execute-api.us-east-1.amazonaws.com/product
 
 
 
 
-###
+    ###
 
-POST https://uwdy3hxjl1.execute-api.us-east-1.amazonaws.com/product
-Content-Type: application/json
+    POST https://uwdy3hxjl1.execute-api.us-east-1.amazonaws.com/product
+    Content-Type: application/json
 
-{
-    "firstName":"Prasanthi",
-    "lastName":"Konangi",
-    "age":36
-}
+    {
+        "firstName":"Prasanthi",
+        "lastName":"Konangi",
+        "age":36
+    }
 
